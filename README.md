@@ -1,4 +1,4 @@
-Key module versiosn:
+Key module version:
 cuda 11.8;
 nvidia-smi driver version 535;
 torch==2.4.1;
