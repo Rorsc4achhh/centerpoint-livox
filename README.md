@@ -9,10 +9,13 @@ Worked with nvidia 4070ti.
 More information for env:
 (https://github.com/Tream733/centerpoint-livox)
 
+BUILD NEEDED locally FOR: centerpoint-livox with ws_msgs and pcl_reg.
 
 
 
-Normal steps to start:
+
+
+Normal steps to start after build:
 
 cd ~/ros2_ws
 
