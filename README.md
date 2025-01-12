@@ -15,12 +15,15 @@ More information for env:
 Normal steps to start:
 
 cd ~/ros2_ws
+
 source ~/ros2_ws/install/setup.bash
 
 colcon build --packages-select centerpoint --symlink-install
+
 colcon build --packages-select pcl_reg --symlink-install
 
 ros2 run centerpoint centerpoint_node #detection node
+
 ros2 run pcl_reg reg_pcl #publish node
 
 rosrun rviz rviz
