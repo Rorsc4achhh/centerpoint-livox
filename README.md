@@ -11,6 +11,7 @@ Worked with nvidia 4070ti.
 
 
 Normal steps to start:
+
 cd ~/ros2_ws
 source ~/ros2_ws/install/setup.bash
 
