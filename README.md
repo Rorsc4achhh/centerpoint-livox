@@ -13,7 +13,7 @@ BUILD NEEDED LOCALLY FOR: centerpoint-livox with ws_msgs and pcl_reg.
 
 
 
-Normal steps to start after build:
+Normal steps to start after build(Processed frames as input: https://drive.google.com/file/d/1H99vZLZmoUQvnu0JileJkLdRAymwOlUW/view?usp=drive_link ):
 
 cd ~/ros2_ws
 
